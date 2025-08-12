@@ -23,3 +23,28 @@ chamada-texto{
 61{
     font-size:40px:
 }
+p{
+    font-size 20px:
+}
+categoria-video {
+                 display:flex;
+                 overflow:-x:auto;
+                 gap:10px;
+}
+categoria{
+         padding-left:20px
+         padding-righ:20px
+         margin-top:50px
+         margin-botton:100px
+}
+categoria-videos img{
+                 opacizy: 05;
+                 height:200px
+}
+categoria-videos img:houve{
+                    opacity:1.0;
+                    border:1px solid purplue;
+}
+        
+    
+}
